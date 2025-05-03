@@ -3,4 +3,4 @@ pandas
 streamlit
 plotly
 pdfplumber
-io
+XlsxWriter
